@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a26bfc32-0629-4589-ba59-575ed4b5c3df" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.8/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.8/checksums/md5-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.8/checksums/sha1-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.8/dependencies-accessors/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.8/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.8/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.8/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.8/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.8/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/AscendCraft.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/AscendCraft.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CREDITS.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/example/examplemod/Config.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/example/examplemod/ExampleMod$ClientModEvents.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/example/examplemod/ExampleMod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/createMcpToSrg/output.tsrg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/downloadMCMeta/version.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/downloadMcpConfig/output.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/extractSrg/output.srg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/META-INF/mods.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/pack.mcmeta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/changelog.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ascendcraft/ascendcraft/AscendCraft.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/mods.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/pack.mcmeta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forge-1.20.6-50.1.12-mdk/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forge-1.20.6-50.1.12-mdk/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forge-1.20.6-50.1.12-mdk/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forge-1.20.6-50.1.12-mdk/downloads/log.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forge-1.20.6-50.1.12-mdk/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forge-1.20.6-50.1.12-mdk/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forge-1.20.6-50.1.12-mdk/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forge-1.20.6-50.1.12-mdk/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forge-1.20.6-50.1.12-mdk/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forge-1.20.6-50.1.12-mdk/logs/latest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forge-1.20.6-50.1.12-mdk/logs/telemetry/20240819-1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forge-1.20.6-50.1.12-mdk/options.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forge-1.20.6-50.1.12-mdk/realms_persistence.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forge-1.20.6-50.1.12-mdk/saves/New World/DIM-1/data/raids.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forge-1.20.6-50.1.12-mdk/saves/New World/DIM1/data/raids_end.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forge-1.20.6-50.1.12-mdk/saves/New World/advancements/00efef15-1049-453f-a1cc-8e433c34337a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forge-1.20.6-50.1.12-mdk/saves/New World/data/raids.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forge-1.20.6-50.1.12-mdk/saves/New World/data/random_sequences.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forge-1.20.6-50.1.12-mdk/saves/New World/entities/r.-1.-1.mca" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forge-1.20.6-50.1.12-mdk/saves/New World/entities/r.-1.0.mca" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forge-1.20.6-50.1.12-mdk/saves/New World/entities/r.0.-1.mca" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forge-1.20.6-50.1.12-mdk/saves/New World/entities/r.0.0.mca" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forge-1.20.6-50.1.12-mdk/saves/New World/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forge-1.20.6-50.1.12-mdk/saves/New World/level.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forge-1.20.6-50.1.12-mdk/saves/New World/level.dat_old" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forge-1.20.6-50.1.12-mdk/saves/New World/playerdata/00efef15-1049-453f-a1cc-8e433c34337a.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forge-1.20.6-50.1.12-mdk/saves/New World/playerdata/00efef15-1049-453f-a1cc-8e433c34337a.dat_old" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forge-1.20.6-50.1.12-mdk/saves/New World/poi/r.-1.-1.mca" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forge-1.20.6-50.1.12-mdk/saves/New World/poi/r.-1.0.mca" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forge-1.20.6-50.1.12-mdk/saves/New World/poi/r.0.-1.mca" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forge-1.20.6-50.1.12-mdk/saves/New World/poi/r.0.0.mca" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forge-1.20.6-50.1.12-mdk/saves/New World/region/r.-1.-1.mca" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forge-1.20.6-50.1.12-mdk/saves/New World/region/r.-1.0.mca" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forge-1.20.6-50.1.12-mdk/saves/New World/region/r.0.-1.mca" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forge-1.20.6-50.1.12-mdk/saves/New World/region/r.0.0.mca" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forge-1.20.6-50.1.12-mdk/saves/New World/session.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forge-1.20.6-50.1.12-mdk/saves/New World/stats/00efef15-1049-453f-a1cc-8e433c34337a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forge-1.20.6-50.1.12-mdk/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forge-1.20.6-50.1.12-mdk/src/main/java/com/example/nighthawk/Config.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forge-1.20.6-50.1.12-mdk/src/main/java/com/example/nighthawk/NightHawk.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forge-1.20.6-50.1.12-mdk/src/main/java/com/example/nighthawk/client/CustomScreen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forge-1.20.6-50.1.12-mdk/src/main/java/com/example/nighthawk/client/IStamina.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forge-1.20.6-50.1.12-mdk/src/main/java/com/example/nighthawk/client/ScreenRegistration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forge-1.20.6-50.1.12-mdk/src/main/java/com/example/nighthawk/client/StaminaEventHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forge-1.20.6-50.1.12-mdk/src/main/java/com/example/nighthawk/client/StaminaHUD.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forge-1.20.6-50.1.12-mdk/src/main/java/com/example/nighthawk/stamina/Stamina.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forge-1.20.6-50.1.12-mdk/src/main/java/com/example/nighthawk/stamina/StaminaCapability.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forge-1.20.6-50.1.12-mdk/src/main/resources/META-INF/mods.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forge-1.20.6-50.1.12-mdk/src/main/resources/pack.mcmeta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forge-1.20.6-50.1.12-mdk/usercache.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "BND10706"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/BND10706/AscendCraft.git",
+    "accountId": "1ec98aeb-7039-4311-8577-ee13c69644b6"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2lbiJeRT5WirDtT5AItkSYO3wcA" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle./Users/Brandon/Documents/Programming/Minecraft/AscendCraft [:createMcpToSrg :createMcpToSrg :createMcpToSrg].executor": "Run",
+    "Gradle.Build AscendCraft.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/Brandon/Documents/Programming/Minecraft/AscendCraft",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a26bfc32-0629-4589-ba59-575ed4b5c3df" name="Changes" comment="" />
+      <created>1724897742131</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724897742131</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
